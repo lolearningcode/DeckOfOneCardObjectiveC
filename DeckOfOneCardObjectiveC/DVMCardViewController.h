@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DVMCardViewController.h
 //  DeckOfOneCardObjectiveC
 //
 //  Created by Lo Howard on 5/21/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface DVMCardViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
